@@ -8,17 +8,17 @@ Construyo aplicaciones web, herramientas de gestión e integraciones que resuelv
 
 **📍 Argentina · 💼 Abierto a empleo remoto y proyectos freelance · ✉️ [carlosdualive@gmail.com](mailto:carlosdualive@gmail.com)**
 
-[**Explorar mi portafolio ↗**](https://carlos-dualibe.vercel.app) · [**Ver sistema de turnos ↗**](https://github.com/yttuD/clinica-san-martin-tpi)
+[**Explorar mi portafolio ↗**](https://carlos-dualibe.vercel.app) · [**Leer o descargar mi CV ↗**](https://carlos-dualibe.vercel.app/cv/)
 
 ## Experiencia y proyectos seleccionados
 
 | Proyecto | Desafío técnico y contribución | Acceso |
 | --- | --- | --- |
-| **Rendo — plataforma inmobiliaria** | Aplicación SaaS con catálogo público, gestión de unidades, reservas, roles y operaciones. Arquitectura web Full Stack con Next.js, NestJS y Supabase. | [Demo beta](https://rendo-beta-web.vercel.app/es) · Código no enlazado |
-| **Sistema de turnos multiempresa** | Agenda, profesionales, pacientes y lógica para prevenir reservas conflictivas. React, Node.js, Prisma y PostgreSQL. | [Repositorio público](https://github.com/yttuD/clinica-san-martin-tpi) |
-| **TransAI — inspección asistida por IA** | Proyecto académico colaborativo. Arquitectura distribuida para inspección visual con IA local, APIs y revisión humana. Django, FastAPI, React y Node.js. | Caso documentado en el [portafolio](https://carlos-dualibe.vercel.app/#proyectos) |
-| **Mi Ciclo — aplicación de bienestar** | Desarrollo por fases de una PWA para cliente: autenticación, consentimientos versionados y onboarding guiado. Next.js, TypeScript y Supabase. | Captura de demo con datos ficticios en el [portafolio](https://carlos-dualibe.vercel.app/#proyectos); código privado |
-| **Sistema empresarial offline-first** | Trabajo privado sobre persistencia local, reglas de negocio, permisos y sincronización controlada. TypeScript, SQLite y Supabase. | Descripción anonimizada |
+| **Rendo — plataforma inmobiliaria** | Aplicación SaaS con catálogo público, gestión de unidades, reservas, roles y operaciones. Arquitectura web Full Stack con Next.js, NestJS y Supabase. | [Caso técnico](https://carlos-dualibe.vercel.app/work/rendo/) · [Beta pública](https://rendo-beta-web.vercel.app/es) · Código privado |
+| **Sistema de turnos multiempresa** | Agenda, profesionales, pacientes y lógica para prevenir reservas conflictivas. React, Node.js, Prisma y PostgreSQL. Backend y base de datos descontinuados. | [Caso de estudio](https://carlos-dualibe.vercel.app/work/turnos/) · [Código público](https://github.com/yttuD/clinica-san-martin-tpi) |
+| **TransAI — inspección asistida por IA** | Proyecto académico colaborativo. Arquitectura distribuida para inspección visual con IA local, APIs y revisión humana. Django, FastAPI, React y Node.js. | [Caso de estudio](https://carlos-dualibe.vercel.app/work/transai/) |
+| **Mi Ciclo — aplicación de bienestar** | Desarrollo por fases de una PWA para cliente: autenticación, consentimientos versionados y onboarding guiado. Next.js, TypeScript y Supabase. | [Caso de estudio y capturas del producto](https://carlos-dualibe.vercel.app/work/mi-ciclo/); código privado |
+| **Sistema empresarial offline-first** | Trabajo privado sobre persistencia local, reglas de negocio, permisos y sincronización controlada. TypeScript, SQLite y Supabase. | [Caso de estudio anonimizado](https://carlos-dualibe.vercel.app/work/offline/) |
 
 ## Stack con el que trabajo
 
@@ -37,6 +37,6 @@ Me importa separar los resultados verificados de las funciones en desarrollo, y 
 
 ---
 
-**¿Buscas un desarrollador?** Puedes revisar mis proyectos en [carlos-dualibe.vercel.app](https://carlos-dualibe.vercel.app) o escribirme a [carlosdualive@gmail.com](mailto:carlosdualive@gmail.com). Disponible para contratación y trabajos freelance.
+**¿Buscas un desarrollador?** Puedes revisar mis [casos de estudio](https://carlos-dualibe.vercel.app/#proyectos), [descargar mi CV](https://carlos-dualibe.vercel.app/cv/) o escribirme a [carlosdualive@gmail.com](mailto:carlosdualive@gmail.com). Disponible para contratación y trabajos freelance.
 
 <sub>English summary: Full Stack Developer based in Argentina, working with TypeScript, React, Next.js, Node.js, Python and SQL. I build web applications, business systems and integrations with an emphasis on reliability and product quality. Open to remote employment and freelance software projects. Contact: carlosdualive@gmail.com.</sub>
